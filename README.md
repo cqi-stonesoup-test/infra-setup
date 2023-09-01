@@ -1,2 +1,3 @@
-# infra-setup
-for testing purpose only. can be deleted at any time
+# Infra Setup
+
+Used for testing script that updates infra-deployments content and maintains a pull request for the changes until merge.
