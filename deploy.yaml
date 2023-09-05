@@ -1,4 +1,4 @@
 ---
-image: quay.io/tkdchen/app:1234
+image: quay.io/tkdchen/app:d21b84ac957bc36e1729c1a9245f16be97552b6e
 dockerfile: Dockerfile
 context: .
